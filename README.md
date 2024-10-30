@@ -104,16 +104,14 @@ void semaforo() {
 ```
 
 # Circuito e execução
+![20241029_140353](https://github.com/user-attachments/assets/adbc5bce-2799-4043-ac20-129393bd7cef)
 
-<div align="center">
+![20241029_140334](https://github.com/user-attachments/assets/3f6eedaa-9258-4c30-af14-b6165b378b40)
 
-<sub>Figura 1 - Circuito</sub>
+![20241029_140341](https://github.com/user-attachments/assets/3af71eee-c250-4c7d-9963-8b1a0cfc5a97)
 
-<img src="assets/circuito1.jpg" width="80%" >
+https://github.com/user-attachments/assets/4990387d-92a6-46fd-89dd-344a505cef36
 
-<sup>Fonte: Autoria própria (2024)</sup>
-
-</div>
 
 # Circuito e execução
 
