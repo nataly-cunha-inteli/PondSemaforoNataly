@@ -113,7 +113,7 @@ void semaforo() {
 https://github.com/user-attachments/assets/4990387d-92a6-46fd-89dd-344a505cef36
 
 
-# Circuito e execução
+# Avaliações
 
 ### Avaliador: Heitor de Faria Cândido
 
